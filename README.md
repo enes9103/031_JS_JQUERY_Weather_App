@@ -1,7 +1,7 @@
-<p>Clarusway<img align="right"
+<p><img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Project-006 : Weather_Condition_App_with_JQUERY
+# Project-031 : Weather_Condition_App_with_JQUERY
 
 ## Description
 Project aims to display current weather data of searched city around the world with fetching Weather Api data.
