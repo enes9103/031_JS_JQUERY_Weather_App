@@ -10,7 +10,7 @@ Project aims to display current weather data of searched city around the world w
 
 - Design a weather condition page following the design and populate data for searched city with using of Ajax / Jquery in JS.
 
-![Form](weather_app.gif)
+
 
 User story;
 
